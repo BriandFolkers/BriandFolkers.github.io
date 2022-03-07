@@ -1,4 +1,4 @@
-My name is Brian Folkers. I'm an undergraduate at UT Austin studying government and statistics. I'm intrested in data science and how data analysis and machine learning can be used in public policy.
+My name is Brian Folkers. I'm an undergraduate at UT Austin studying government and statistics. I'm intrested in data science and how data analysis and machine learning can be used in public policy. I'm using this sit to keep track of my data science projects. (I'm also planning on starting a blog soon).
 
 
 # Data Science Projects
@@ -10,7 +10,7 @@ My name is Brian Folkers. I'm an undergraduate at UT Austin studying government 
 
 
 # Contact
-- [email](brianfolkers@utexas.edu)
+- <brianfolkers@utexas.edu>
 - [GitHub](https://github.com/BriandFolkers)
 - [Linkedin](https://www.linkedin.com/in/brian-d-folkers-898a311a2/)
 - [Kaggle](https://www.kaggle.com/briandfolkers)
