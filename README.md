@@ -3,7 +3,7 @@
 My name is Brian Folkers. I'm an undergraduate at UT Austin studying government and statistics. I'm intrested in data science and how data analysis and machine learning can be used in public policy.
 
 # Data Science Projects
-## [Analysing Transit Deserts and Inequality with Linear Regression] (https://github.com/BriandFolkers/DS-Project)
+## [Analysing Transit Deserts and Inequality with Linear Regression](https://github.com/BriandFolkers/DS-Project)
 
 
 # Contact
