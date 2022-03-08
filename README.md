@@ -16,5 +16,5 @@ Read my CV [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0ZWr1S
 ### [Transit Deserts and Inequality (December 2021)](https://github.com/BriandFolkers/DS-Project)
 - Uses simple linear regression analysis to examine relationship between a lack of adaquate public transporation and a number of economic inequality varaibles
 
-#Blog
+# Blog
 ### [First Blog Post: Some Website Links](https://docs.google.com/document/d/1_ZNC3KjVRYBIWhdJVhUykOxDzOdBIi4RQmtb2jUatSI/edit?usp=sharing)
