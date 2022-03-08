@@ -1,5 +1,5 @@
 # Brian Folkers Data Science
-I'm an undergraduate at UT Austin studying government and statistics. I'm intrested in data science and how data analysis and machine learning can be used in public policy. I'm using this site to keep track of my data science projects and to write about a data related subjects that intrest me.
+I'm an undergraduate at UT Austin studying government and statistics. I'm intrested in data science and how data analysis and machine learning can be used in public policy. I'm using this site to keep track of my data science projects and to write about a data related subjects that I'm intrested in.
 
 Read my CV [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0ZWr1SY23/view?usp=sharing)
 
