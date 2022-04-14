@@ -1,5 +1,5 @@
 # Brian Folkers - Data Science & Analytics
-I'm an undergraduate at UT Austin studying government and statistical modeling. I'm intrested in how data science tools can be used in public policy and social impact. I'm using this site to keep track of my data science projects.
+I'm an undergraduate at UT Austin studying government and statistical modeling. I originally started to learn statistics and data science to help with academic research. More recently, I've become intrested in how data science can be used in public policy and social impact. I'm using this site to keep track of my data science projects.
 
 Read my CV [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0ZWr1SY23/view?usp=sharing)
 
@@ -7,12 +7,8 @@ Read my blog here (comming soon)
 
 # Contact
 - brianfolkers@utexas.edu
-- brianfolkers3@gmail.com
 - [GitHub](https://github.com/BriandFolkers)
 - [Linkedin](https://www.linkedin.com/in/brian-d-folkers-898a311a2/)
-- [Kaggle](https://www.kaggle.com/briandfolkers)
-- [Stackoverflow](https://stackoverflow.com/users/16336822/brian-folkers)
-- [Twitter](https://twitter.com/FolkersBrian)
 
 # Data Science Projects
 ### Statistical Learning & Infrence Project (comming soon)
