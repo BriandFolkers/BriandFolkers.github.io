@@ -11,13 +11,13 @@ Read my blog here (comming soon)
 - [Linkedin](https://www.linkedin.com/in/brian-d-folkers-898a311a2/)
 
 # Data Science Projects
-### Statistical Learning & Infrence Project (comming soon)
+### Statistical Learning & Inference Project (comming soon)
 *2022-05-08*
-- Project for Statistical Learning & Infrence course
+- Project for Spring 2022 Statistical Learning & Infrence course
 
 ### [Transit Deserts and Economic Inequality: Linear Regression Analysis](https://github.com/BriandFolkers/DS-Project)
 *2021-12-10*
-- Project for Elements of Data Science course
+- Project for Fall 2021 Elements of Data Science course
 - Uses simple linear regression analysis and a UT Urban Information Lab dataset
 - Examines the relationship between a lack of adaquate public transporation (transit desert) and a number of economic inequality varaibles
 - Found a positive correlation between public transit access and economic inequality indicators
