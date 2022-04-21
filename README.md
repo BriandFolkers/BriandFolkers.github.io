@@ -12,7 +12,7 @@ Read my data science blog here (comming soon)
 
 # Data Science Projects
 ### Data Visualization Project (comming soon)
-*2022-02-08*
+*2022-05-02*
 - Individual project for Spring 2022 Data Visualization course
 - Split into three seperate projects with the final part being largely free form
 
