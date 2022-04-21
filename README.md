@@ -3,7 +3,7 @@ I'm an undergraduate at UT Austin studying for a BA in Government with a minor i
 
 Read my CV [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0ZWr1SY23/view?usp=sharing)
 
-Read my blog here (comming soon)
+Read my data science blog here (comming soon)
 
 # Contact
 - brianfolkers@utexas.edu
@@ -11,6 +11,10 @@ Read my blog here (comming soon)
 - [Linkedin](https://www.linkedin.com/in/brian-d-folkers-898a311a2/)
 
 # Data Science Projects
+### Data Visualization Project (comming soon)
+*2022-02-08*
+- Project for Spring 2022 Data Visualization course
+
 ### Statistical Learning & Inference Project (comming soon)
 *2022-05-08*
 - Project for Spring 2022 Statistical Learning & Infrence course
