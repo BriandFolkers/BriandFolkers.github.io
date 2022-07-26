@@ -1,14 +1,14 @@
-# Brian Folkers - Data Science Portfolio
-I'm an undergraduate at UT Austin studying for a BA in Government with a minor in Applied Statistical Modeling. I originally started to learn statistics and data science to help with academic research, but more recently, I've become interested in how data science can be used in public policy and social impact. Most of my experience is with data analytics, but I'd like to expand into other areas like machine learning and data science blogging. If you're interested in working together on anything, please feel free to contact me.
+# About Me
+My name is Brian Folkers and I'm a recent graduate from UT Austin with a BA in Government and a minor in Applied Statistical Modeling. I originally started to learn statistics and data science to help with academic research, but I've become more interested in how these tools can be used in public policy and social impact. If you're interested in working together on anything, please feel free to contact me using any of the links below.
 
-Read my CV [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0ZWr1SY23/view?usp=sharing)
+Read my resume [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0ZWr1SY23/view?usp=sharing)
 
-Read my data science blog here (comming soon)
 
 # Contact
 - brianfolkers@utexas.edu
 - [GitHub](https://github.com/BriandFolkers)
 - [Linkedin](https://www.linkedin.com/in/brian-d-folkers-898a311a2/)
+
 
 # Data Science Projects
 ### Data Visualization Project (comming soon)
