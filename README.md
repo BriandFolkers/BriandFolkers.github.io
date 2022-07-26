@@ -16,7 +16,7 @@ Read my resume [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0Z
 - Individual project for Spring 2022 Data Visualization course
 - Split into three seperate projects with the final part being largely free form
 
-### Taiwanese Company Bankruptcy Prediction: Classification Analysis (comming soon)
+### [Taiwanese Company Bankruptcy Prediction: Classification Analysis](https://github.com/BriandFolkers/StatsLearning_Project)
 *2022-05-08*
 - Group project for Spring 2022 Statistical Learning & Infrence course
 
