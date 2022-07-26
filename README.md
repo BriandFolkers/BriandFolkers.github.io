@@ -11,10 +11,11 @@ Read my resume [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0Z
 
 
 # Data Science Projects
-### [Factors Affecting International Transit Cost](https://github.com/BriandFolkers/Data_Viz_Projects)
+### [Factors Affecting International Transit Cost: Data Visualization](https://github.com/BriandFolkers/Data_Viz_Projects)
 *2022-05-02*
-- Individual project for Spring 2022 Data Visualization course
-- Split into three seperate projects with the final part being largely free form
+- Project for Spring 2022 Data Visualization course
+- Uses visualizations of linear regression and principal component analysis
+- Repository also contains two other projects
 
 ### [Taiwanese Company Bankruptcy Prediction: Classification Analysis](https://github.com/BriandFolkers/StatsLearning_Project)
 *2022-05-08*
