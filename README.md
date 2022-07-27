@@ -17,8 +17,6 @@ Read my resume [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0Z
 - Uses visualizations of linear regression and principal component analysis
 - Repository also contains two other projects
 
-![](https://github.com/BriandFolkers/BriandFolkers.github.io/blob/main/images/data_viz_image.png)
-
 ### [Taiwanese Company Bankruptcy Prediction: Classification Analysis](https://github.com/BriandFolkers/StatsLearning_Project)
 *2022-05-08*
 - Group project for Spring 2022 Statistical Learning & Infrence course
