@@ -1,5 +1,5 @@
 # About Me
-My name is Brian Folkers and I'm a recent graduate from UT Austin with a BA in Government and a minor in Applied Statistical Modeling. I originally started to learn statistics and data science to help with my academic research, but I've become more interested in how these tools can be used in public policy and social impact. If you're interested in working together on anything, please feel free to contact me using any of the links below.
+My name is Brian Folkers and I'm a recent graduate from UT Austin with a BA in Government and a minor in Applied Statistical Modeling. I originally started to learn statistics and data science to help with my academic research, but I've become more interested in using these tools for public policy and social impact. If you're interested in working together on anything, please feel free to contact me using any of the links below.
 
 Read my resume [here](https://drive.google.com/file/d/1PDZKe4IQCpqUa8njlCbieDP0ZWr1SY23/view?usp=sharing)
 
