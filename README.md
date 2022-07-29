@@ -9,6 +9,7 @@ I also write blog posts on [Medium](https://medium.com/@brianfolkers)
 - brianfolkers@utexas.edu
 - [GitHub](https://github.com/BriandFolkers)
 - [Linkedin](https://www.linkedin.com/in/brian-d-folkers-898a311a2/)
+- [Kaggle](https://www.kaggle.com/briandfolkers)
 
 
 # Data Science Projects
