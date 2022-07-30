@@ -3,7 +3,7 @@ My name is Brian Folkers and I'm a recent graduate from UT Austin with a BA in G
 
 Read my resume [here](https://drive.google.com/file/d/14mPD0wn50HGyYOWBylKujzl3pnJOhGxk/view?usp=sharing)
 
-I also write blog posts on [Medium](https://medium.com/@brianfolkers)
+I also write on [Medium](https://medium.com/@brianfolkers)
 
 # Contact
 - brianfolkers@utexas.edu
